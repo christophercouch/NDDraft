@@ -1,0 +1,51 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-family="Helvetica" font-size="16px" line-height="160%" color="#000" align="left" />
+      <mj-button background-color="#c8102e" text-transform="uppercase" font-family="Helvetica" font-size="18px" font-weight="700" border-radius="0px" inner-padding="10px 40px" align="left" href="https://nexusdirect.com/120k" target="_blank" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="600px">
+
+    //header
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column padding="0px" width="600px">
+        <mj-image src="https://coupons.suds.ws/Clients/SudsDRB/Assets/Hero.png" padding="0" width="600px" alt="Nexus Direct Relationship Header"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    //body
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>Hi,</mj-text>
+        <mj-text>I wanted to reach out because I noticed that not only did we not have time together at the 2021 Bridge Conference, but also you may not have had the chance to enter our exciting giveaway. <span style="color: #c8102e; font-weight: 700;">I wanted you to know it's not too late - you have until Wednesday, September 1 to enter and win 6 months of FREE Google Ad Grant Management and Optimization by Nexus Direct's experienced digital team!</span></mj-text>
+        <mj-button>CLICK TO ENTER</mj-button>
+        <mj-text>As fundraising experts, we firmly believe in using the Google Ad Grant to boost fundraising results and make your organization easier to find via search. Because we want to help nonprofits tackle the most painful obstacles in their fundraising programs, we believe that giving away these services could help you eliminate a lot of those obstacles in your donor retention and acquisition.</mj-text>
+        <mj-text>We look forward to your entry, and we will be in touch!</mj-text>
+        <mj-text>SIGNER NAME</mj-text>
+        <mj-text>P.S. We all know that it can be frustrating when it comes to strategizing the right multichannel fundraising efforts. But sometimes it's just as simple as putting more love and humanity into your fundraising, according to Colin Skehan, renowned Irish fundraiser, our guest at Bridge, and the Irish "Fundraiser of the Year" in 2018. <a href="https://nexusdirect.com/idea-blog/a-bridge-towards-fundraising-nirvana" target="_blank" style="color: #c8102e; font-weight: 700;">Read more</a> to learn about his top takeaways from the Bridge Conference.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    //footer
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column padding="0px" width="600px">
+        <mj-image src="https://coupons.suds.ws/Clients/SudsDRB/Assets/FooterTop.png" padding="0" width="600px" alt="Nexus Direct Flower Footer"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#23282c">
+      <mj-column>
+        <mj-text color="#fff" font-weight="700" padding-bottom="0px">Connect With Us:</mj-text>
+        <mj-social icon-size="34px" align="left" padding="0px 0px 0px 20px">
+          <mj-social-element href="https://facebook.com/NexusDirect" src="https://coupons.suds.ws/Clients/SudsDRB/Assets/FB.png" alt="Nexus Direct Facebook"></mj-social-element>
+          <mj-social-element href="https://twitter.com/NexusDirect" src="https://coupons.suds.ws/Clients/SudsDRB/Assets/Twitter.png" alt="Nexus Direct Twitter"></mj-social-element>
+          <mj-social-element href="https://linkedin.com/company/nexus-direct" src="https://coupons.suds.ws/Clients/SudsDRB/Assets/LinkedIn.png" alt="Nexus Direct LinkedIn"></mj-social-element>
+          <mj-social-element href="https://www.instagram.com/nexusdirect/" src="https://coupons.suds.ws/Clients/SudsDRB/Assets/Insta.png" alt="Nexus Direct Instagram"></mj-social-element>
+        </mj-social>
+        <mj-text color="#fff" font-weight="700" padding-top="0px" padding-bottom="0px">Within the US: <a href="tel:+18009650577" style="color: #fff; text-decoration: none;">1.800.965.0577</a></mj-text>
+        <mj-text color="#fff" font-weight="700" padding-top="0px" padding-bottom="0px">International: <a href="tel:+17573405960" style="color: #fff; text-decoration: none;">+1 757.340.5960</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
